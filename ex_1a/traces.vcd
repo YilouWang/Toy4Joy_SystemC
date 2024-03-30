@@ -1,0 +1,130 @@
+$date
+     Mar 26, 2024       14:18:40
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- Mar 25 2024 22:40:51
+$end
+
+$timescale
+     1 us
+$end
+
+$scope module SystemC $end
+$var wire   16  aaaaa  data_amount [15:0]  $end
+$var wire    1  aaaab  disc_packet       $end
+$var wire   32  aaaac  counter [31:0]  $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+b0 aaaaa
+0aaaab
+b0 aaaac
+$end
+
+#3
+b1010100101 aaaaa
+b1010100101 aaaac
+
+#9
+b10110110110 aaaaa
+1aaaab
+b111110001 aaaac
+
+#32
+b1100111 aaaaa
+0aaaab
+b1100111 aaaac
+
+#58
+b10001010010 aaaaa
+b10001010010 aaaac
+
+#89
+b10110111001 aaaaa
+1aaaab
+b10110000 aaaac
+
+#117
+b1110100 aaaaa
+0aaaab
+b1110100 aaaac
+
+#144
+b100010011 aaaaa
+b100010011 aaaac
+
+#176
+b11110001 aaaaa
+b11110001 aaaac
+
+#202
+b1011101111 aaaaa
+b1011101111 aaaac
+
+#229
+b10101011001 aaaaa
+b10101011001 aaaac
+
+#255
+b10001101001 aaaaa
+1aaaab
+b1001001101 aaaac
+
+#264
+b110101011 aaaaa
+0aaaab
+b1011101010 aaaac
+
+#301
+b10000101110 aaaaa
+b10000101110 aaaac
+
+#325
+b1001000000 aaaaa
+b1110011110 aaaac
+
+#357
+b11101000 aaaaa
+b11101000 aaaac
+
+#361
+b1101101000 aaaaa
+b1111011000 aaaac
+
+#381
+b10011101010 aaaaa
+1aaaab
+b110000000 aaaac
+
+#393
+b1101110001 aaaaa
+0aaaab
+b1110001001 aaaac
+
+#401
+b1000101110 aaaaa
+b10011000111 aaaac
+
+#434
+b100000100 aaaaa
+b111101101 aaaac
+
+#441
+b1111111 aaaaa
+b110011010 aaaac
+
+#463
+b100111101 aaaaa
+b100111101 aaaac
+
+#488
+b10110100000 aaaaa
+b10110100000 aaaac
+
+#500
