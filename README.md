@@ -1,6 +1,6 @@
-#####################
-###Toy4Joy_SystemC###
-#####################
+#######################
+### Toy4Joy_SystemC ###
+#######################
 
 Toy project to practice SystemC skills
 	
@@ -8,9 +8,9 @@ Toy project to practice SystemC skills
 	
 	2.
 
-##########################
-###Setting environment:###
-##########################
+############################
+### Setting environment: ###
+############################
 
 Download and extract SystemC (2.3.3) files from SC website
 ####
