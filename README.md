@@ -6,7 +6,7 @@ Toy project to practice SystemC skills
 	
 	1.FIFO_Camparison: Including 4 fifos, normal fifo in signal level, FWFT fifo in signal level, transaction-level fifo with sc_interface, transaction-level fifo with TLM. In testbench, you can easily see the advantages of TLM and high level communication.
 	
-	2.
+	2.NPU Modeling: Model a NPU framework based on IPv4, consisting CPU, Io, Memory, Dma, and an accelerator.
 
 ############################
 ### Setting environment: ###
